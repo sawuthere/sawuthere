@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1372" height="1392" alt="HV-ew02XYAAp5FH" src="https://github.com/user-attachments/assets/46ec3d21-5539-406f-b1db-cd0153c01116" />
+<img width="1172" height="1192" alt="HV-ew02XYAAp5FH" src="https://github.com/user-attachments/assets/46ec3d21-5539-406f-b1db-cd0153c01116" />
 
 
 
@@ -36,6 +36,5 @@ $\color{#731301}{\textit{────❚⚠❚────}}$
 
 
 
-<img width="600" height="162" alt="New board (1)" src="https://github.com/user-attachments/assets/53f2fff5-e6dc-419b-8a91-64fece6a8f0d" />
 
 </div>
