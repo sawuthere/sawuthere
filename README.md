@@ -27,7 +27,7 @@ $\color{#731301}{\textit{❰ ​🇹​​🇦​​🇰​​🇪​​🇳​.
 
 $\color{#731301}{\textit{────❚⚠❚────}}$
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315phdhsse2yrsg5tg4hlptm77je&cover_image=true&theme=novatorem&show_offline=false&background_color=7a86e1&interchange=false&profanity=false&bar_color=ffa8e4&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pj80pqe4o2nyp3utqh0oynke1&cover_image=true&theme=novatorem&border_radius=15&bar_color=bb1919)
 
 $\color{#731301}{\textit{────❚⚠❚────}}$
 
