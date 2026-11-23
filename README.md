@@ -25,6 +25,7 @@ $\color{#731301}{\textit{❰ ​🇹​​🇦​​🇰​​🇪​​🇳​.
 
 <img width="100" height="100" alt="5a8227ad069730ed7f3ec0303de23bd3-Photoroom" src="https://github.com/user-attachments/assets/4fa88aa5-d485-4fdd-a50f-cafcb9988682" />
 
+
 $\color{#731301}{\textit{────❚⚠❚────}}$
 
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pj80pqe4o2nyp3utqh0oynke1&cover_image=true&theme=novatorem&border_radius=15&bar_color=bb1919)
@@ -35,6 +36,6 @@ $\color{#731301}{\textit{────❚⚠❚────}}$
 
 
 
-<img width="800" height="262" alt="New board (1)" src="https://github.com/user-attachments/assets/53f2fff5-e6dc-419b-8a91-64fece6a8f0d" />
+<img width="600" height="162" alt="New board (1)" src="https://github.com/user-attachments/assets/53f2fff5-e6dc-419b-8a91-64fece6a8f0d" />
 
 </div>
