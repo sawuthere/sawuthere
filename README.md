@@ -23,7 +23,7 @@ $\color{#731301}{\textit{❰ ​🇦​​🇩​​🇺​​🇱​​🇹​ 
 
 $\color{#731301}{\textit{❰ ​🇹​​🇦​​🇰​​🇪​​🇳​. ❱ }}$ 
 
-<img width="536" height="315" alt="5a8227ad069730ed7f3ec0303de23bd3-Photoroom" src="https://github.com/user-attachments/assets/94667428-472b-4e70-a79c-eae59a8c737a" />
+<img width="236" height="115" alt="5a8227ad069730ed7f3ec0303de23bd3-Photoroom" src="https://github.com/user-attachments/assets/94667428-472b-4e70-a79c-eae59a8c737a" />
 
 
 $\color{#731301}{\textit{────❚⚠❚────}}$
