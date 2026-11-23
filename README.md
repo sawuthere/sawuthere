@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1972" height="1992" alt="HV-ew02XYAAp5FH" src="https://github.com/user-attachments/assets/46ec3d21-5539-406f-b1db-cd0153c01116" />
+<img width="1672" height="1692" alt="HV-ew02XYAAp5FH" src="https://github.com/user-attachments/assets/46ec3d21-5539-406f-b1db-cd0153c01116" />
 
 
 
@@ -10,7 +10,7 @@ $\color{#731301}{\textit{ “—Live forever!
 $\color{#731301}{\textit{ Are you two even listing?”
 }}$
 
-<img width="735" height="490" alt="30ae6a7fd64c4942f4e48840a1912c96-Photoroom" src="https://github.com/user-attachments/assets/7a227082-7aff-44c8-81a6-fc7fbea234b7" />
+<img width="735" height="195" alt="30ae6a7fd64c4942f4e48840a1912c96-Photoroom" src="https://github.com/user-attachments/assets/3178d1ff-261e-4eba-87b1-32935582892e" />
 
 
 
