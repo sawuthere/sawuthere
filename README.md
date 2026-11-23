@@ -10,7 +10,7 @@ $\color{#731301}{\textit{ “—Live forever!
 $\color{#731301}{\textit{ Are you two even listing?”
 }}$
 
-<img width="735" height="195" alt="30ae6a7fd64c4942f4e48840a1912c96-Photoroom" src="https://github.com/user-attachments/assets/3178d1ff-261e-4eba-87b1-32935582892e" />
+<img width="735" height="175" alt="30ae6a7fd64c4942f4e48840a1912c96-Photoroom" src="https://github.com/user-attachments/assets/3178d1ff-261e-4eba-87b1-32935582892e" />
 
 
 
